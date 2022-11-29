@@ -1,3 +1,4 @@
+// 2. Create a class node and another class BST. Add insert, deletenode, preorder, inorder, postoder functions. Also add a function to calculate the height of the tree. Use template. Also add suitable constructors and destructor .overload = operator.
 #include <iostream>
 using namespace std;
 

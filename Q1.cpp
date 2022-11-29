@@ -1,3 +1,4 @@
+// 1. Create a class node and another class doubly lined list. Write appned, addbeg, insertbefore, insertafter, deleteany, delbeg, delend functions. Overload << & >> operators. Use template. Also add suitable constructors and destructor. Overload = operator.
 #include <iostream>
 using namespace std;
 
